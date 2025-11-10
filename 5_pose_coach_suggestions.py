@@ -1,6 +1,6 @@
 # Pose Coach - Pose Estimation (Suggestions Only)
 # Summary:
-#   Real-time rep counter and basic form feedback for squats/pushups.
+#   Real-time rep counter and basic form feedback for biceps curls.
 # Why it matters:
 #   Immediate feedback helps users improve form and avoid injury.
 #
